@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/0PWCtUDg)
 # Lab 07
 
 In this lab, your task is to establish relationships between the tables within the database. You'll need to establish two one-to-many relationships: one between the `users` table and the `posts` table, and another between the `posts` table and itself. Additionally, you'll create a many-to-many relationship between the `posts` and `tags` tables. Furthermore, you are required to implement all necessary validations and callbacks for the models
